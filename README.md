@@ -8,7 +8,8 @@ Simple script for building csv files with large quantities of data from Google T
 **primary_key:** Select the most responsive keyword from item_list to be the primary key, then remove or comment out the keyword from item_list.  
 You may need to experiment with keywords to find which is strongest.
 
-**timeframe:** Provide start and end dates in YYYY-MM-DD format.
+**timeframe:** Provide start and end dates in YYYY-MM-DD format.  
+Can alternatively leave empty to default to last 5 years, or set to 'all' for all data
 
 **gproperty:** The Google property to filter i.e. web, images news etc.  
 Can be images, news, youtube or froogle (for Google Shopping results).  
