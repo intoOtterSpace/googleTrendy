@@ -9,7 +9,7 @@ primary_key = ''
 #Start - end dates in YYYY-MM-DD format. Example spanning year 2023 given
 timeframe = '2023-01-01 2023-12-31'
 #Leave string empty to default to web searches
-gproperty = 'news'
+gproperty = ''
 #Refer to README for info on specifying region and category
 region = ''
 category = 0
