@@ -1,3 +1,5 @@
+#pip install pytrends
+
 from pytrends.request import TrendReq
 import time, os, traceback
 import pandas as pd
