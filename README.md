@@ -18,4 +18,6 @@ Defaults to web searches.
 Complete list available [here](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
 
 **category:** Narrow results by selecting a topic by entering its assigned code i.e. food and drink is 71  
-Complete list available [here](https://github.com/pat310/google-trends-api/wiki/Google-Trends-Categories).
+Complete list available [here](https://github.com/pat310/google-trends-api/wiki/Google-Trends-Categories).  
+  
+## Outputs to csv
